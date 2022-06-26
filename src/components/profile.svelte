@@ -12,7 +12,7 @@
    <div class="flex gap-5 child:text-[1.35em] child:text-[#3A4046] md:child:text-[1.55em]">
     <a href="https://www.linkedin.com/in/mitchellboumelhem/"><i class="bi bi-linkedin" target_blank></i></a>
     <a href="https://github.com/M-TKK/Portfolio-v2" target="_blank"><i class="bi bi-github"></i></a>
-    <a href="/"><i class="bi bi-slack"></i></a>
+    <a href="https://dribbble.com/_MTK"><i class="bi bi-dribbble"></i></a>
    </div>
 
 </div>

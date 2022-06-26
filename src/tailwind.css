@@ -32,11 +32,11 @@
     }
 
     .navbar-list{
-        @apply xs:fixed xs:left-0 xs:top-[0] xs:-translate-x-full xs:h-screen xs:bg-[#3A4046] xs:text-[#fbf7f5] flex xs:flex-col xs:w-screen xs:z-30 xs:justify-center xs:items-center xs:text-5xl xs:gap-5 xs:transition-transform xs:ease-in-out xs:duration-[350ms] md:relative md:w-fit md:h-fit md:text-[1em] md:flex-row md:translate-x-0 md:top-0 md:bg-transparent md:text-[#3A4046];
+        @apply xs:fixed xs:left-0 xs:top-[0] xs:-translate-x-full xs:h-screen xs:bg-[#3A4046] xs:text-[#fbf7f5] flex xs:flex-col xs:w-screen xs:z-30 xs:justify-center xs:items-center xs:text-5xl xs:gap-5 xs:transition-transform xs:ease-in-out xs:duration-[350ms] md:relative md:w-fit md:h-fit md:text-[1em] md:flex-row md:translate-x-0 md:top-0 md:bg-transparent md:text-[#3A4046] xl:gap-8;
     }
 
     .navbar-listmobile{
-        @apply xs:fixed xs:left-0 xs:top-[0] xs:-translate-x-0 xs:h-screen xs:bg-[#3A4046] xs:text-[#fbf7f5] flex xs:flex-col xs:w-screen xs:z-30 xs:justify-center xs:items-center xs:text-5xl xs:gap-5  xs:transition-transform xs:ease-in-out xs:duration-[350ms] md:relative md:w-fit md:h-fit md:text-[1em] md:flex-row md:translate-x-0 md:top-0 md:bg-transparent md:text-[#3A4046];
+        @apply xs:fixed xs:left-0 xs:top-[0] xs:-translate-x-0 xs:h-screen xs:bg-[#3A4046] xs:text-[#fbf7f5] flex xs:flex-col xs:w-screen xs:z-30 xs:justify-center xs:items-center xs:text-5xl xs:gap-5  xs:transition-transform xs:ease-in-out xs:duration-[350ms] md:relative md:w-fit md:h-fit md:text-[1em] md:flex-row md:translate-x-0 md:top-0 md:bg-transparent md:text-[#3A4046] xl:gap-8;
     }
 
     #mobile-btn{

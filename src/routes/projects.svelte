@@ -40,10 +40,9 @@
     console.log(works)
   </script>
   
-  <div class="p-8 flex flex-col gap-12 lg:gap-28">
+  <div class="p-8 flex flex-col gap-12 lg:gap-18">
     <div class="flex gap-5 flex-col">
-      <h1 class="font-futura font-black uppercase text-4xl border-solid underline decoration-[#e28f9d]">My Projects</h1>
-      <p class="xl:w-3/5">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda dignissimos explicabo cupiditate debitis consectetur accusantium, quo eveniet enim neque autem reprehenderit nemo temporibus maiores ducimus quas quidem asperiores pariatur quod.</p>
+      <h1 class="font-futura font-black uppercase text-4xl border-solid">My Projects</h1>
     </div>
     
     <div class="flex xs:flex-col xs:gap-8 md:grid md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3">

@@ -20,12 +20,12 @@
 <nav class="w-full flex font-futura uppercase text-lg font-bold items-center xs:p-8 lg:py-12">
 
     <div class="flex-1 relative z-20">
-        <a href="/">MJB</a>
+        <a href="/">Mitch Boumelhem</a>
     </div>
 
     <div class={`navbar-list${showMobileMenu ? 'mobile' : ''}`}>
         <a href="/projects" on:click={handleMobileClick}>Projects</a>
-        <a href="/">resume</a>
+        <a href="https://www.dropbox.com/s/3anw9ff7pnp8856/Mitchell_Boumelhem_Resume.pdf?raw=1" target="_blank">resume</a>
     </div>
     
     <div class="text-right flex gap-4 justify-end">
