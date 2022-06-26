@@ -20,7 +20,7 @@
 <nav class="w-full flex font-futura uppercase text-lg font-bold items-center xs:p-8 lg:py-12">
 
     <div class="flex-1 relative z-20">
-        <a href="/">Mitch Boumelhem</a>
+        <a href="/">Mitch Boumelhem.</a>
     </div>
 
     <div class={`navbar-list${showMobileMenu ? 'mobile' : ''}`}>

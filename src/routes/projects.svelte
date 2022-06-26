@@ -51,15 +51,26 @@
               <img src="{work.image.url}" alt="" class="w-full object-cover rounded-t-md xl:h-[17em] lg:object-center">
                 <div class="p-8 grid gap-6">
                   <h1 class="text-2xl font-futura uppercase font-bold">{work.title}</h1>
-                  <p class="text-[#5D656C] xs:text-[.8em] font-source">{work.desc}</p>
+                  <p class="text-[#5D656C] xs:text-[.8em] font-source md:text-[.9em]">{work.desc}</p>
                   <ul class="flex gap-3">
                     {#each work.code as code}
                       <li class="text-white bg-[#b6b7b8] xs:text-[.6em] rounded-md p-[.2em] px-2 uppercase">{code}</li>
                     {/each}
                   </ul>
                   <ul class="flex gap-4">
-                    <li class="text-xl text-[#5D656C]"><a href="{work.github}" target="_blank"><a href="/"><i class="bi bi-github"></i></a></a></li>
-                    <li class="text-xl text-[#5D656C]"><a href="{work.weblink}" target="_blank"><i class="bi bi-box-arrow-in-down-right"></i></a></li>
+                    
+                    <li class="text-xl text-[#5D656C]">
+                      <a href="{work.github}" target="_blank">
+                        <i class="bi bi-github"></i>
+                      </a>
+                    </li>
+
+                    <li class="text-xl text-[#5D656C]">
+                      <a href="{work.weblink}" target="_blank">
+                        <i class="bi bi-box-arrow-in-down-right"></i>
+                      </a>
+                    </li>
+
                   </ul>
                 </div>
             </div>
