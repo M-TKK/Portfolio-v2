@@ -29,7 +29,6 @@
     </div>
     
     <div class="text-right flex gap-4 justify-end">
-        <!-- <button>Light</button> -->
         <button class="font-bold text-[1.5em] z-30" on:click={handleMobileClick} id="mobile-btn"><i class="bi bi-list"></i></button>
     </div>
 </nav>
