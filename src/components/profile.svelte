@@ -1,6 +1,3 @@
-<script>
-
-</script>
 
 <div class=" w-full h-[calc(100vh-7em)] xl:h-[calc(100vh-8em)] flex flex-col justify-center items-center xs:gap-6 xs:p-8 md:gap-7 xl:gap-9 relative z-[1]">
 

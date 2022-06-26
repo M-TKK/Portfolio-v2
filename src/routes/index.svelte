@@ -1,12 +1,14 @@
-
-<script>
+  
+  <script>
     import Profile from "../components/profile.svelte";
-</script>
+  </script>
+
+
 
 <Profile/>
 
 <div class="bg-[#e05f5f]">
-    <video src="/src/assets/bg.mp4" class="absolute -top-0 left-0 object-cover w-screen h-screen object-center opacity-40 z-1" autoplay loop>
+    <video src="https://www.dropbox.com/s/49g7vtwkysny1m5/bg.mp4?raw=1" class="absolute -top-0 left-0 object-cover w-screen h-screen object-center opacity-40 z-1" autoplay loop preload="auto">
         <track kind="captions">
     </video>
 </div>
