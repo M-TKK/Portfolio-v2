@@ -25,7 +25,8 @@
 
     <div class={`navbar-list${showMobileMenu ? 'mobile' : ''}`}>
         <a href="/projects" on:click={handleMobileClick}>Projects</a>
-        <a href="https://www.dropbox.com/s/3anw9ff7pnp8856/Mitchell_Boumelhem_Resume.pdf?raw=1" target="_blank">resume</a>
+        <a href="https://www.dropbox.com/s/qv6jecf195lg34x/Mitchell_Boumelhem_Resume_11-10-2022-02-06-18.pdf?raw=1" target="_blank">resume</a>
+        
     </div>
     
     <div class="text-right flex gap-4 justify-end">
